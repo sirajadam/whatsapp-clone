@@ -52,7 +52,7 @@ function Chat() {
         <Message
           receiver={false}
           name="Mr. Answer"
-          message="No, not yet. I plan to do this using Go"
+          message="No, not yet. I plan to do that using Go"
         />
         <Message
           receiver={true}

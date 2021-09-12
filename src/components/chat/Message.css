@@ -22,9 +22,5 @@
 
 .chat__receiver {
   background: #dcf8c6;
-  float: right;
-  justify-self: right;
-  justify-items: right;
-  justify-content: right;
   margin-left: auto;
 }
